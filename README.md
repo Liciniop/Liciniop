@@ -9,7 +9,7 @@
 
 - 📫 Contato: **licinio_pereira_santos@outlook.com**
 
-- 📄 Sobre mim: **www.linkedin.com/in/licinio-pereira-santos-587b292b1**
+- 📄 Sobre mim: **www.linkedin.com/in/licinio-pereira-dos-santos-filho-587b292b1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
