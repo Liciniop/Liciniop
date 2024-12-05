@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liciniop&label=Profile%20views&color=0e75b6&style=flat" alt="liciniop" /> </p>
 
-- 👨‍💻 Meus projetos estão disponível: **https://github.com/Liciniop?tab=repositories**
+- 👨‍💻 Meus projetos estão disponível: **https://github.com/Liciniop**
 
 - 📫 Contato: **licinio_pereira_santos@outlook.com**
 
-- 📄 Sobre mim: **https://www.linkedin.com/in/licinio-pereira-santos-587b292b1/**
+- 📄 Sobre mim: **www.linkedin.com/in/licinio-pereira-santos-587b292b1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/licinio pereira santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="licinio pereira santos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/licinio-pereira-santos-587b292b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/licinio-pereira-santos-587b292b1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
