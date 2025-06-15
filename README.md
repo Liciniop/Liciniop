@@ -1,4 +1,4 @@
-![banner](https://github.com/professorjosedeassis/joseassis/blob/main/img/bannerpro.jpg?raw=true)
+
 
 <h1 align="center">Olá, humano(a). Boas-vindas! ㅤ</h1>
 <h3 align="center">Meu Diário de Aprendizados e Projetos</h3>
@@ -7,7 +7,7 @@
 
 - 👨‍💻 Meus projetos estão disponível: **https://github.com/Liciniop?tab=repositories**
 
-- 📫 Contato: **licinio_pereira_santos@outlook.com**
+- 📫 Contato: **liciniopereirasantos01@gmail.com**
 
 - 📄 Sobre mim: **www.linkedin.com/in/licinio-pereira-dos-santos-filho-587b292b1**
 
