@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liciniop&label=Profile%20views&color=0e75b6&style=flat" alt="liciniop" /> </p>
 
-- 👨‍💻 Meus projetos estão disponível: **https://github.com/Liciniop?tab=repositories**
+- 👨‍💻 Meus projetos: **https://github.com/Liciniop?tab=repositories**
 
 - 📫 Contato: **liciniopereirasantos01@gmail.com**
 
